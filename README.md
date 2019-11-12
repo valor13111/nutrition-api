@@ -8,6 +8,6 @@ The program (for now) just fetches a request for a single item, and produces the
 
 ### Future Updates
 
-- The API uses Natural Language, so I will have a call that shows the total nutrition for a whole repice
+- The API uses Natural Language, so I will have a call that shows the total nutrition for a whole recipe
 - Display Prettier Formatting of the components
 - Inputs to retrieve nutrition for any item
